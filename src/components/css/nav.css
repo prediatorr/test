@@ -1,0 +1,33 @@
+.nav {
+  margin-left: 80px;
+  margin-right: 80px;
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
+.list-links {
+  list-style-type: none;
+  display: flex;
+}
+
+.linkm {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+.active {
+  color: blue;
+}
+
+.navbtn {
+  padding: 0 8px !important;;
+  background-color: rgb(138, 223, 223) !important;;
+  border-radius: 8px !important;;
+}
+

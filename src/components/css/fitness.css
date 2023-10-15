@@ -1,0 +1,33 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.fit-body{
+    padding-top:4rem ;
+    display: flex;
+    gap: 5rem;
+}
+.sub-fit2{
+    width: 800px;
+    background-color: rgb(138, 223, 223);
+    padding: 2rem;
+    border-radius:10px ;
+}
+
+.learnmore{
+    border: 2px solid white;
+    background-color: rgb(138, 223, 223);
+    color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 18px 0;
+}
+.img-fit{
+margin-left: -38px;
+    
+}
+.imgf{
+    width: 240px;
+    left-margin:1rem ;   
+    height: 170px;
+}
