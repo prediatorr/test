@@ -1,0 +1,11 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.body-a{
+    display: flex;
+    margin-top:40px;
+}
+
+.items{
+    gap: 2rem;
+}

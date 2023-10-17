@@ -1,0 +1,40 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.mission{
+    width:100%; 
+}
+
+.whitespace{
+    background-color: white;
+    border-radius: 1rem;
+    padding: 0.6rem;
+    margin-top: 14px;
+}
+
+.input-box{
+    border-width: 2px;
+    border-style: solid;
+    border-color: #F2F4F7;
+    background-color:#F2F4F7;
+    font-size: 12px;
+    padding: 4px;
+    height: 1.2rem;
+    margin-top: .6rem;
+}
+
+.btn{
+    all:unset;
+    background-color: #3F97B5;
+    margin-top: .6rem;
+    padding: 0.6rem;
+}
+.sub-head{
+    color: black;
+    font-size: 1.4rem;
+}
+.sub-head-1{
+    color: #475467;
+    
+}

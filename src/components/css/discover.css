@@ -1,0 +1,39 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.dis-body{
+    padding-top: 4rem;
+    display: flex;
+}
+.club{
+    width:20%;
+
+}
+.ownerh{
+    margin-left: 5rem;
+}
+.help{
+    width: 30%;
+    background-color: rgb(234, 234, 234);
+    padding: 1rem;
+    border-radius: 8px;
+}
+.blue{
+    color: rgb(97, 221, 221);
+}
+.mission{
+    margin-left: 2rem;
+    background-color: #3F97B5;
+    border-radius: 8px;
+    padding: 2rem;
+    color: white;
+}
+.ga{
+    margin-top: 10px;
+}
+.btn{
+    all: unset;
+}
+.main{
+    margin-top: 10px;
+}

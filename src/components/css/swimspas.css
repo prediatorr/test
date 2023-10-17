@@ -1,0 +1,27 @@
+.whole {
+    display: grid;
+    grid-template-columns: 80% auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top:2rem ;
+}
+
+.filters {
+    font-size: small;
+    padding-left: 30px;;
+}
+
+.items {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1rem;
+}
+.heading{
+    padding-top: 1rem;
+}
+
+.not-main{
+    margin-left:4rem;
+}
+.link{
+    margin-top: 1px;
+}
